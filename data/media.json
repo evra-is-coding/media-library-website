@@ -1,0 +1,63 @@
+
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "type": "film",
+    "year": 2010,
+    "genre": "Bilim Kurgu",
+    "rating": 8.8,
+    "image": "https://m.media-amazon.com/images/M/MV5BMjExMjkwNTQ0Nl5BMl5BanBnXkFtZTcwNTY0OTk1Mw@@._V1_.jpg",
+    "description": "Rüyaların paylaşıldığı bir dünyada, kurumsal sırlar çalmak için bir hırsızın zihnine girilmesi gerekir."
+  },
+  {
+    "id": 2,
+    "title": "Breaking Bad",
+    "type": "dizi",
+    "year": 2008,
+    "genre": "Suç",
+    "rating": 9.5,
+    "image": "https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "description": "Kanser teşhisi konan bir kimya öğretmeni, ailesinin geleceğini güvence altına almak için uyuşturucu üretimine başlar."
+  },
+  {
+    "id": 3,
+    "title": "The Dark Knight",
+    "type": "film",
+    "year": 2008,
+    "genre": "Aksiyon",
+    "rating": 9.0,
+    "image": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_FMjpg_UX1000_.jpg",
+    "description": "Batman, Joker'in yarattığı kaosu durdurmak ve Gotham'ı kurtarmak için savaşır."
+  },
+  {
+    "id": 4,
+    "title": "1984",
+    "type": "kitap",
+    "year": 1949,
+    "genre": "Distopya",
+    "rating": 9.2,
+    "image": "https://m.media-amazon.com/images/I/71wANojhEKL._AC_UF894,1000_QL80_.jpg",
+    "description": "Büyük Birader'in gözetimi altındaki totaliter bir rejimde geçen distopik bir roman."
+  },
+  {
+    "id": 5,
+    "title": "Interstellar",
+    "type": "film",
+    "year": 2014,
+    "genre": "Bilim Kurgu",
+    "rating": 8.6,
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg",
+    "description": "İnsanlığın hayatta kalması için yeni bir gezegen arayan bir grup astronotun hikayesi."
+  },
+  {
+    "id": 6,
+    "title": "Sherlock",
+    "type": "dizi",
+    "year": 2010,
+    "genre": "Polisiye",
+    "rating": 9.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BNTQzNGZjNDEtOTMwYi00MzFjLWE2ZTYtYzYxYzMwMjZkZDc5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "description": "Modern Londra'da geçen, ünlü dedektif Sherlock Holmes'un maceraları."
+  }
+]
