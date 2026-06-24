@@ -15,3 +15,5 @@ The following technologies were used in developing this project:
 * Dark mode support.
 * Data storage (Local Storage).
 * Animation feature.
+
+live (demo) link: https://evra-is-coding.github.io/media-library-website/
